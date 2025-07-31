@@ -1,1 +1,1 @@
-export type { FieldType } from "./types";
+export { FieldType } from "./types";
